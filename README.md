@@ -15,11 +15,12 @@ Check out the [demo video](https://mysliit-my.sharepoint.com/:v:/g/personal/it22
 ---
 
 ## 🛠️ Features
-- **Event Management**: Create, update, and delete events with ease.
-- **User-Friendly Dashboard**: A visually appealing and interactive dashboard to manage all your tasks.
+- **CRUD Operations for Event Planners**: Easily add, update, and delete event planners to manage your team effectively.
+- **Event Management**: Create, update, and delete events to ensure smooth planning.
+- **User-Friendly Dashboard**: A visually appealing and interactive dashboard for managing all tasks.
 - **Custom Scheduling**: Assign tasks and set deadlines for seamless event execution.
 - **Client Management**: Keep track of client information and communication history.
-- **Real-Time Updates**: Automatic updates for changes in schedules or tasks.
+- **Real-Time Updates**: Automatically sync changes in schedules or tasks to ensure everyone stays informed.
 
 ---
 
@@ -34,7 +35,4 @@ Check out the [demo video](https://mysliit-my.sharepoint.com/:v:/g/personal/it22
 - **Java Development Kit (JDK)** installed.
 - A modern web browser.
 
-### Steps to Run:
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/<Your-Username>/event-planning-system.git
+
