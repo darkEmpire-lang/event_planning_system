@@ -4,8 +4,9 @@ An advanced and intuitive system to streamline event planning, scheduling, and m
 
 ---
 
-## 📸 Dashboard Preview
 
+## 📸 Dashboard Preview
+![Dashboard](event_planning_system/dashboard.png)
 ---
 
 ## 🎥 Demo Video
